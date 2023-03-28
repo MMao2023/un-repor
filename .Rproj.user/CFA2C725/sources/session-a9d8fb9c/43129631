@@ -1,0 +1,26 @@
+{
+    "id": "43129631",
+    "path": "~/OneDrive - Michigan Medicine/Desktop/un-report/gdp_lifeexp_analysis.R",
+    "project_path": "gdp_lifeexp_analysis.R",
+    "type": "r_source",
+    "hash": "3834736958",
+    "contents": "",
+    "dirty": true,
+    "created": 1680010293962.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "96,2",
+        "scrollLine": "81"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680019241,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680022683348,
+    "read_only": false,
+    "read_only_alternatives": []
+}
